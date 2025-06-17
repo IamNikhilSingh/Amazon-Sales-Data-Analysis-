@@ -1,1 +1,7 @@
-# Amazon-Sales-Data-Analysis-
+# Amazon-Sales-Data-Analysis
+
+Amazon Sales Dashboard:
+Interactive Power BI Amazon Sales Dashboard is a comprehensive tool that provides sellers with a centralized view of their sales performance on Amazon.
+
+Tools used:
+Excel and Power BI
