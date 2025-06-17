@@ -10,7 +10,7 @@ Tools used:
 Excel and Power BI
 
 
-Features/Highlights:
+Features/Highlights:Solve Business Problems and provide Insights 
 
 •Sub-Category Wise Sales
 •Category Wise Sales
@@ -20,4 +20,4 @@ Features/Highlights:
 
 Screenshot:
 
-Dashboard Preview - []
+Dashboard Preview - [https://github.com/IamNikhilSingh/Amazon-Sales-Data-Analysis-/blob/main/Snapshot%20of%20the%20Dashboard.jpg]
