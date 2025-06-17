@@ -18,6 +18,4 @@ Features/Highlights:Solve Business Problems and provide Insights
 •Category Wise QTY Sold
 
 
-Screenshot:
-
 Dashboard Preview - [https://github.com/IamNikhilSingh/Amazon-Sales-Data-Analysis-/blob/main/Snapshot%20of%20the%20Dashboard.jpg]
