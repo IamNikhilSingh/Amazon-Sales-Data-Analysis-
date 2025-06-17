@@ -5,3 +5,9 @@ Interactive Power BI Amazon Sales Dashboard is a comprehensive tool that provide
 
 Tools used:
 Excel and Power BI
+
+Features/Highlights:
+•Sub-Category Wise Sales
+•Category Wise Sales
+•Category Wise Profit 
+•Category Wise QTY Sold
