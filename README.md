@@ -7,6 +7,7 @@ Tools used:
 Excel and Power BI
 
 Features/Highlights:
+
 •Sub-Category Wise Sales
 •Category Wise Sales
 •Category Wise Profit 
